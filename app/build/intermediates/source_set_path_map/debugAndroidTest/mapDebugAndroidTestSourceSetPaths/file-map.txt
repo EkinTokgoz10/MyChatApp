@@ -1,0 +1,6 @@
+com.example.mychatapp.test.app-androidTest-0 C:\MyChatApp\app\build\generated\res\resValues\androidTest\debug
+com.example.mychatapp.test.app-mergeDebugAndroidTestResources-1 C:\MyChatApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mychatapp.test.app-mergeDebugAndroidTestResources-2 C:\MyChatApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mychatapp.test.app-debugAndroidTest-3 C:\MyChatApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.mychatapp.test.app-annotation-experimental-1.1.0-4 C:\Users\tahar\.gradle\caches\transforms-4\281671151adbba07562320eebaf944b8\transformed\annotation-experimental-1.1.0\res
+com.example.mychatapp.test.app-core-1.5.0-5 C:\Users\tahar\.gradle\caches\transforms-4\c158a6e1494aaaf7900975169b222caa\transformed\core-1.5.0\res

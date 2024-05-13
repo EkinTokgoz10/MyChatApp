@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_slideshow.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_nav_mesajgonder.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_nav_mesajgonder.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/activity_splash.xml",
+        "source": "com.example.mychatapp-main-7:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/content_main.xml",
+        "source": "com.example.mychatapp-main-7:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_mesaj_olustur.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_mesaj_olustur.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/activity_register.xml",
+        "source": "com.example.mychatapp-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_gallery.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_nav_logout.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_nav_logout.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/item_grupolustur_grup.xml",
+        "source": "com.example.mychatapp-main-7:/layout/item_grupolustur_grup.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.example.mychatapp-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_home.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.mychatapp-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_grup_olustur.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_grup_olustur.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_gruba_ekle.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_gruba_ekle.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/mesajolustur_message.xml",
+        "source": "com.example.mychatapp-main-7:/layout/mesajolustur_message.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/item_grubaekle_grup.xml",
+        "source": "com.example.mychatapp-main-7:/layout/item_grubaekle_grup.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/nav_header_main.xml",
+        "source": "com.example.mychatapp-main-7:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/app_bar_main.xml",
+        "source": "com.example.mychatapp-main-7:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-4:/layout/fragment_mesaj_gonder.xml",
+        "source": "com.example.mychatapp-main-7:/layout/fragment_mesaj_gonder.xml"
+    }
+]
