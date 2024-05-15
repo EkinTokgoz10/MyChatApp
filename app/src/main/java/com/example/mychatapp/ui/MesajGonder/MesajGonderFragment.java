@@ -12,6 +12,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.example.mychatapp.GrupModel;
+import com.example.mychatapp.MesajModel;
 import com.example.mychatapp.R;
 import com.example.mychatapp.ui.GrupOlustur.GroupAdapter;
 import com.google.firebase.auth.FirebaseAuth;
@@ -77,8 +79,5 @@ public class MesajGonderFragment extends Fragment {
 
            }
         });
-
     }
-
-
 }

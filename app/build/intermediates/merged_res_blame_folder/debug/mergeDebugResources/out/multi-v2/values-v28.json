@@ -4,17 +4,26 @@
             "outputFile": "com.example.mychatapp-mergeDebugResources-3:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tahar\\.gradle\\caches\\transforms-4\\ef82ce53b01d94d31eee3736143f15d3\\transformed\\material-1.7.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\tahar\\.gradle\\caches\\8.8-rc-1\\transforms\\59a92f98cead818abf497077e0a0a06a\\transformed\\material-1.12.0\\res\\values-v28\\values-v28.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,248,343,441,529,617,705,793,880,967,1054",
-                        "endColumns": "97,94,94,97,87,87,87,87,86,86,86,86",
-                        "endOffsets": "148,243,338,436,524,612,700,788,875,962,1049,1136"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,249,344,441,529,617,705,793,880,967,1054,1141",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,17",
+                        "endColumns": "97,95,94,96,87,87,87,87,86,86,86,86,10",
+                        "endOffsets": "148,244,339,436,524,612,700,788,875,962,1049,1136,1423"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,249,344,441,529,617,705,793,880,967,1054,1675",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,27",
+                        "endColumns": "97,95,94,96,87,87,87,87,86,86,86,86,10",
+                        "endOffsets": "148,244,339,436,524,612,700,788,875,962,1049,1136,1957"
                     }
                 },
                 {
-                    "source": "C:\\Users\\tahar\\.gradle\\caches\\transforms-4\\5c92b26d3e69f34536f464b9210c2814\\transformed\\appcompat-1.5.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\tahar\\.gradle\\caches\\8.8-rc-1\\transforms\\f627fea81ccc0bb64c84561b4d2ddb53\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

@@ -4,7 +4,6 @@ package com.example.mychatapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -27,18 +26,13 @@ public final class ActivityMainBinding implements ViewBinding {
   public final DrawerLayout drawerLayout;
 
   @NonNull
-  public final ImageView imageView4;
-
-  @NonNull
   public final NavigationView navView;
 
   private ActivityMainBinding(@NonNull DrawerLayout rootView, @NonNull AppBarMainBinding appBarMain,
-      @NonNull DrawerLayout drawerLayout, @NonNull ImageView imageView4,
-      @NonNull NavigationView navView) {
+      @NonNull DrawerLayout drawerLayout, @NonNull NavigationView navView) {
     this.rootView = rootView;
     this.appBarMain = appBarMain;
     this.drawerLayout = drawerLayout;
-    this.imageView4 = imageView4;
     this.navView = navView;
   }
 
@@ -78,12 +72,6 @@ public final class ActivityMainBinding implements ViewBinding {
 
       DrawerLayout drawerLayout = (DrawerLayout) rootView;
 
-      id = R.id.imageView4;
-      ImageView imageView4 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView4 == null) {
-        break missingId;
-      }
-
       id = R.id.nav_view;
       NavigationView navView = ViewBindings.findChildViewById(rootView, id);
       if (navView == null) {
@@ -91,7 +79,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((DrawerLayout) rootView, binding_appBarMain, drawerLayout,
-          imageView4, navView);
+          navView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

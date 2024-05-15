@@ -13,6 +13,7 @@ import android.widget.EditText;
 
 import com.example.mychatapp.GrupModel;
 import com.example.mychatapp.R;
+import com.example.mychatapp.ui.GrupOlustur.GroupAdapter;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
@@ -61,7 +62,7 @@ public class GrubaEkleFragment extends Fragment {
 
                 grupModelArrayList.add(grupModel);
             }
-            grubaekle_uye.setAdapter(new GroupAddAdapter(grupModelArrayList));
+              grubaekle_uye.setAdapter(new GroupAddAdapter(grupModelArrayList));
 
             LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getContext(), LinearLayoutManager.HORIZONTAL, false);
             grubaekle_uye.setLayoutManager(linearLayoutManager);

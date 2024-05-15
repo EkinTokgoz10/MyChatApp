@@ -17,6 +17,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 
+import com.example.mychatapp.GrupModel;
 import com.example.mychatapp.R;
 import com.example.mychatapp.Tools;
 import com.google.firebase.auth.FirebaseAuth;
@@ -32,16 +33,17 @@ import java.util.UUID;
 
 
 public class GrupOlusturFragment extends Fragment {
-    EditText grupolustur_grupadi,grupolustur_aciklama;
-    ImageView grupSimge;
-    Button grupolustur;
-    RecyclerView grupolustur_tumgruplar;
+    private EditText grupolustur_grupadi;
+    private EditText grupolustur_aciklama;
+    private ImageView grupSimge;
+    private Button grupolustur;
+    private RecyclerView grupolustur_tumgruplar;
 
-    Uri filePath;
-    FirebaseAuth firebaseAuth;
-    FirebaseFirestore fireStore;
-    FirebaseStorage firebaseStorage;
-    ArrayList<GrupModel> gruparray;
+    private Uri filePath;
+    private FirebaseAuth firebaseAuth;
+    private FirebaseFirestore fireStore;
+    private FirebaseStorage firebaseStorage;
+    private ArrayList<GrupModel> gruparray;
 
 
     @Override
@@ -150,7 +152,6 @@ public class GrupOlusturFragment extends Fragment {
             for (DocumentSnapshot documentSnapshot: queryDocumentSnapshots.getDocuments()){
                 GrupModel grupModel=new GrupModel(documentSnapshot.getString("name"),documentSnapshot.getString("aciklama"),
                         documentSnapshot.getString("image"),(List<String>)documentSnapshot.get("numbers"),documentSnapshot.getId());
-
             }
 
             grupolustur_tumgruplar.setAdapter(new GroupAdapter(gruparray));

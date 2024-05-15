@@ -1,5 +1,6 @@
 package com.example.mychatapp.ui.MesajOlustur;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -12,6 +13,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.example.mychatapp.MesajModel;
 import com.example.mychatapp.R;
 import com.example.mychatapp.Tools;
 import com.google.firebase.auth.FirebaseAuth;
@@ -92,12 +94,11 @@ public class MesajOlusturFragment extends Fragment {
     private void FetchMessage()
     {
         String userId=firebaseAuth.getCurrentUser().getUid();
-        firebaseFirestore.collection("/userdata/" + userId + "/messages").get()
+        firebaseFirestore.collection("/userdata/" + userId + "/" + "messages").get()
                 .addOnSuccessListener(queryDocumentSnapshots -> {
                     mesajModelList.clear();
                     for (DocumentSnapshot documentSnapshot : queryDocumentSnapshots.getDocuments()){
                         MesajModel mesajModel=new MesajModel(documentSnapshot.getString("name"),documentSnapshot.getString("description"),documentSnapshot.getId());
-                        //mesajModelList.add(mesajModel);
                     }
 
                     tummesajlar.setAdapter(new MessageAdapter(mesajModelList));

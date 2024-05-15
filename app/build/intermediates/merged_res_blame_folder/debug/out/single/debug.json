@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable-v24_posta.png.flat",
+        "source": "com.example.mychatapp-main-8:/drawable-v24/posta.png"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_nav_logout.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_nav_logout.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.mychatapp-main-8:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable-v24_kilit.png.flat",
+        "source": "com.example.mychatapp-main-8:/drawable-v24/kilit.png"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_mesaj_gonder.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_mesaj_gonder.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/xml_backup_rules.xml.flat",
+        "source": "com.example.mychatapp-main-8:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable-v24_sign.png.flat",
+        "source": "com.example.mychatapp-main-8:/drawable-v24/sign.png"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mychatapp-main-8:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_activity_splash.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mychatapp-pngs-1:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.mychatapp-main-8:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.mychatapp-main-8:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.mychatapp-main-8:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_gruba_ekle.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_gruba_ekle.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.mychatapp-main-8:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_home.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_activity_login.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable-v24_login.png.flat",
+        "source": "com.example.mychatapp-main-8:/drawable-v24/login.png"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_grup_olustur.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_grup_olustur.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mychatapp-main-8:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_mesajolustur_message.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/mesajolustur_message.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_content_main.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_slideshow.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_item_grubaekle_grup.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/item_grubaekle_grup.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable_edittextbg.xml.flat",
+        "source": "com.example.mychatapp-main-8:/drawable/edittextbg.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_item_grupolustur_grup.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/item_grupolustur_grup.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_nav_mesajgonder.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_nav_mesajgonder.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/drawable-v24_chat.png.flat",
+        "source": "com.example.mychatapp-main-8:/drawable-v24/chat.png"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.mychatapp-main-8:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_nav_header_main.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_activity_register.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/menu_main.xml.flat",
+        "source": "com.example.mychatapp-main-8:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_mesaj_olustur.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_mesaj_olustur.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_fragment_gallery.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/layout_app_bar_main.xml.flat",
+        "source": "com.example.mychatapp-main-8:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-merged_res-6:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mychatapp-main-8:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

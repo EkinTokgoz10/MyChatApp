@@ -4,7 +4,7 @@
             "outputFile": "com.example.mychatapp-mergeDebugResources-3:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tahar\\.gradle\\caches\\transforms-4\\5c92b26d3e69f34536f464b9210c2814\\transformed\\appcompat-1.5.1\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\tahar\\.gradle\\caches\\8.8-rc-1\\transforms\\f627fea81ccc0bb64c84561b4d2ddb53\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

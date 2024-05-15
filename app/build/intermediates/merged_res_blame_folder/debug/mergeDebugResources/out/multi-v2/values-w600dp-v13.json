@@ -1,28 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-mergeDebugResources-3:\\values-w600dp-v13\\values-w600dp-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\MyChatApp\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "41",
-                        "endOffsets": "54"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "com.example.mychatapp-mergeDebugResources-3:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
