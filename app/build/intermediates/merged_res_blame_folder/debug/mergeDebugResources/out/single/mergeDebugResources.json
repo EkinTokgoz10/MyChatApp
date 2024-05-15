@@ -48,6 +48,10 @@
         "source": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-main-7:\\drawable\\ic_menu_gallery.xml"
     },
     {
+        "merged": "com.example.mychatapp-debug-5:/drawable-v24_chat.png.flat",
+        "source": "com.example.mychatapp-main-7:/drawable-v24/chat.png"
+    },
+    {
         "merged": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-debug-5:\\layout_fragment_mesaj_olustur.xml.flat",
         "source": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-main-7:\\layout\\fragment_mesaj_olustur.xml"
     },
@@ -186,6 +190,10 @@
     {
         "merged": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-debug-5:\\layout_app_bar_main.xml.flat",
         "source": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-main-7:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-debug-5:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.mychatapp-main-7:/drawable/side_nav_bar.xml"
     },
     {
         "merged": "C:\\Users\\tahar\\.gradle\\daemon\\8.7\\com.example.mychatapp-debug-5:\\drawable_edittextbg.xml.flat",
